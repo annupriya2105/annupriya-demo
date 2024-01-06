@@ -1,2 +1,3 @@
 # annupriya-demo
-This is my first Repository.
+This is my first GIT Repository.
+Author-Annu Priya
